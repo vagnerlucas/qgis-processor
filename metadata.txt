@@ -12,8 +12,8 @@ email=foo@foo.org
 
 about=Provide a brief description of the plugin and its purpose.
 
-tracker=http://bugs
-repository=http://repo
+tracker=https://github.com/vagnerlucas/qgis-processor
+repository=https://github.com/vagnerlucas/qgis-processor
 # End of mandatory metadata
 
 # Recommended items:
